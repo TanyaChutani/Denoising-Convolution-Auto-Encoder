@@ -12,10 +12,10 @@ Mnist dataset from keras.datasets
 - The loss function for training is mse.
 
 ## Result
-You can download the pre-trained weights from here 
+You can download the pre-trained weights from here <br />
 https://drive.google.com/open?id=1KmnNJM29HADuNUIIM8MxNmDfkM9wTDgN
 
 #### Input <br />
-[](https://github.com/TanyaChutani/Denoising_ConvolutionAutoEncoder/blob/master/outputA.png)<br />
-#### Output <br />
 ![](https://github.com/TanyaChutani/Denoising_ConvolutionAutoEncoder/blob/master/noisyA.png)<br />
+#### Output <br />
+[](https://github.com/TanyaChutani/Denoising_ConvolutionAutoEncoder/blob/master/outputA.png)<br />
