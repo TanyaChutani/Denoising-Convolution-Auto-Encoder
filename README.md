@@ -17,5 +17,6 @@ https://drive.google.com/open?id=1KmnNJM29HADuNUIIM8MxNmDfkM9wTDgN
 
 #### Input <br />
 ![](https://github.com/TanyaChutani/Denoising_ConvolutionAutoEncoder/blob/master/noisyA.png)<br />
+
 #### Output <br />
 ![](https://github.com/TanyaChutani/Denoising_ConvolutionAutoEncoder/blob/master/outputA.png)<br />
